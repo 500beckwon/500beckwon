@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/iOS-000000">
 
 
