@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjsx60@gmail.com)](mailto:kjsx60@gmail.com)
+
 
 
