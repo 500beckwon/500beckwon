@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=500beckwon&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and Tools:
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjsx60@gmail.com)](mailto:kjsx60@gmail.com)
+https://img.shields.io/badge/Language-Swift-orange
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjsx60@gmail.com)](mailto:kjsx60@gmail.com)
 
 
 
