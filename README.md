@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=500beckwon&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and Tools:
-<img src="https://simpleicons.org/icons/swift.svg"/></a>&nbsp
+
 
 
