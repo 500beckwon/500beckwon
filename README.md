@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=500beckwon)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=500beckwon&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=500beckwon)
+
 
 Languages and Tools:  
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">  
