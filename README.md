@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">📱 Tech Stack 📖</h3>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">  
+<h3 align="center">📱 Tech Stack 📖</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white"></a>&nbsp 
 <img src="https://img.shields.io/badge/iOS-000000">
-
-
+ <br>
+</p>
