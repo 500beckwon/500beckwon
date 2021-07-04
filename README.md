@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=500beckwon)
 
 
-Languages and Tools:  
+<h3 align="center">📱 Tech Stack 📖</h3>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white">  
 <img src="https://img.shields.io/badge/iOS-000000">
 
